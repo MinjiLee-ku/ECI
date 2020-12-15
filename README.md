@@ -14,7 +14,7 @@ The converted 3D feature was used on a convolutional neural network (CNN) in the
 In each arousal and awareness state, the EEG data were trained as two classes (low versus high). 
 For training and test phase, we used the leave-one subject-out approach as transfer learning. 
 
-## Step 3: Calculating ECI
+## Step 3: Testing CNN and Calculating ECI
 The output indicates the probability was averaged for calculating ECI. Finally, relevance scores based on layer-wise relevance propagation (LRP) was calculated.
 
 ## Etc
