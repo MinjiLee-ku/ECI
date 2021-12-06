@@ -1,3 +1,6 @@
+[![DOI](https://zenodo.org/badge/321578315.svg)](https://zenodo.org/badge/latestdoi/321578315)
+
+
 # Source code for the Explainable Consciousness Indicator (ECI)
 
 This project contains the scripts associated to the manuscript "Disentangling consciousness from sleep, anesthesia, and patients with disorders of consciousness
