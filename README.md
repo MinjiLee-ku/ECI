@@ -3,8 +3,7 @@
 
 # Source code for the Explainable Consciousness Indicator (ECI)
 
-This project contains the scripts associated to the manuscript "Disentangling consciousness from sleep, anesthesia, and patients with disorders of consciousness
-using interpretable deep learning."
+This project contains the scripts associated to the manuscript "Quantifying Arousal and Awareness in Altered States of Consciousness using Interpretable Deep Learning."
 
 * Programming Language: MATLAB
 * Contact: Minji Lee (minjilee@korea.ac.kr)
